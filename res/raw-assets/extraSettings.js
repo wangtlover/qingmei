@@ -35,10 +35,10 @@ let fruitSlowDown = false;
 let clickChangeFruit = true;
 
 // 广告链接：false 或为空字符串表示不会跳转到广告
-let adLink = '';
+let adLink = 'https://wx4.sinaimg.cn/mw1024/0068THcdly1h4969f5duyj32c03407wn.jpg';
 
 // 修改网页标题：将 "合成大西瓜" 进行替换
-document.getElementsByTagName("title")[0].innerText = '青&梅新婚快乐';
+document.getElementsByTagName("title")[0].innerText = '叉叉儿生日快乐';
 
 // 开启选分弹窗：将 false 改为 true
 let selectModal = false;
